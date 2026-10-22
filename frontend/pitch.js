@@ -1,3 +1,4 @@
+import { tick, chime } from '/sound.js';
 const $ = id => document.getElementById(id);
 // Model-written text never shows an em or en dash used as punctuation (house style); a comma reads the same.
 const tidy = v => typeof v === 'string' ? v.replace(/(\d)\s*–\s*(\d)/g, '$1-$2').replace(/\s*[—–]\s*/g, ', ') : v;
@@ -22,6 +23,7 @@ $('copy').addEventListener('click', async () => {
 });
 
 async function run(demo = null) {
+  tick();
   if (running) return;
   running = true;
   const body = { investor: $('investor').value.trim(), firm: $('firm').value.trim(), startup: $('startup').value.trim(), comps: $('comps').value, ...(demo ? { demo, pace: new URLSearchParams(location.search).get('pace') } : {}) };
@@ -60,6 +62,7 @@ function handle(ev, pending) {
 }
 
 function show(data) {
+  chime();
   const { dossier, resolved, fit, brief, baseline } = data;
   last = data;
   $('o-made').replaceChildren(...$('steps').children);

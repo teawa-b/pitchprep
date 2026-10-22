@@ -9,7 +9,8 @@ import { buildPitch } from './lib/pitch.js';
 
 // Pitchprep's backend: serves the page in ../frontend and streams an investor brief from /api/pitch.
 const files = {
-  '/': ['pitch.html', 'text/html'], '/pitch.js': ['pitch.js', 'text/javascript'], '/pitch.css': ['pitch.css', 'text/css']
+  '/': ['pitch.html', 'text/html'], '/pitch.js': ['pitch.js', 'text/javascript'], '/pitch.css': ['pitch.css', 'text/css'],
+  '/sound.js': ['sound.js', 'text/javascript']
 };
 const cdn = 'https://cdn.jsdelivr.net';
 
