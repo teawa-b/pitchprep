@@ -1,4 +1,5 @@
 import { tick, chime } from '/sound.js';
+import { keepFresh } from '/fresh.js';
 const $ = id => document.getElementById(id);
 // Model-written text never shows an em or en dash used as punctuation (house style); a comma reads the same.
 const tidy = v => typeof v === 'string' ? v.replace(/(\d)\s*–\s*(\d)/g, '$1-$2').replace(/\s*[—–]\s*/g, ', ') : v;
@@ -8,6 +9,7 @@ const host = v => { try { return new URL(v).hostname.replace(/^www\./, ''); } ca
 let running = false, last = null;
 
 function toast(text, ms = 4000) { $('toast').textContent = text; $('toast').hidden = !text; clearTimeout(toast.t); if (text) toast.t = setTimeout(() => { $('toast').hidden = true; }, ms); }
+keepFresh(() => running || !$('out').hidden, toast);
 
 // A judge card opens that judge's recorded brief instantly (for the sample startup); the form runs live.
 const sample = { startup: 'A live-events app that turns a concert ticket into a night out: pre-show bars, merch and rides, picked for each fanbase', comps: 'Ticketmaster, Spotify, Uber' };

@@ -10,7 +10,7 @@ import { buildPitch } from './lib/pitch.js';
 // Pitchprep's backend: serves the page in ../frontend and streams an investor brief from /api/pitch.
 const files = {
   '/': ['pitch.html', 'text/html'], '/pitch.js': ['pitch.js', 'text/javascript'], '/pitch.css': ['pitch.css', 'text/css'],
-  '/sound.js': ['sound.js', 'text/javascript']
+  '/sound.js': ['sound.js', 'text/javascript'], '/fresh.js': ['fresh.js', 'text/javascript']
 };
 const cdn = 'https://cdn.jsdelivr.net';
 
@@ -60,7 +60,7 @@ export function createApp({ env = process.env, fetcher = fetch } = {}) {
         res.writeHead(200, { 'Content-Type': `${type}; charset=utf-8`, 'Cache-Control': 'no-cache' });
         return res.end(await readFile(new URL(`../frontend/${name}`, import.meta.url)));
       }
-      if (req.method === 'GET' && path === '/api/health') return send(200, { ok: true });
+      if (req.method === 'GET' && path === '/api/health') return send(200, { ok: true, version: env.VERCEL_DEPLOYMENT_ID || env.VERCEL_URL || 'local' });
       if (req.method === 'GET' && path === '/api/demos') return send(200, { demos: await listDemos('pitch') });
       if (req.method === 'GET' && path === '/api/config') {
         return send(200, { site: 'pitch', siteName: 'Pitchprep', qloo: Boolean(env.QLOO_API_KEY), qlooHost, llm: llm?.label || null });
