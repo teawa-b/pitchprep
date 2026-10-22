@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Pitchprep</title>
+  <meta name="description" content="Pitchprep researches an investor, then Qloo shows which of their companies your customers already love and what to open with.">
+  <link rel="icon" href="/img/pitchprep-32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="/img/pitchprep-180.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css">
+  <link rel="stylesheet" href="/pitch.css">
+  <script type="module" src="/pitch.js"></script>
+</head>
+<body>
+  <header class="nav">
+    <a class="brand" href="/"><picture><source srcset="/img/pitchprep-dark-180.png" media="(prefers-color-scheme: dark)"><img src="/img/pitchprep-180.png" alt="" width="28" height="28"></picture><span>Pitchprep</span></a>
+    <a class="nav-link" href="https://github.com/teawa-b/qloo-hackathon-sites" target="_blank" rel="noreferrer"><i class="ph ph-github-logo"></i> Code</a>
+  </header>
+
+  <main id="intro">
+    <section class="hero">
+      <div class="hero-copy">
+        <h1>Know your investor before you pitch.</h1>
+        <p class="lead">Pitchprep researches the investor, then Qloo shows which of their companies your customers already love.</p>
+        <form id="ask" autocomplete="off">
+          <div class="row2">
+            <label>Investor<input id="investor" maxlength="80" placeholder="Jason Calacanis" required></label>
+            <label><span>Firm <span class="opt">optional</span></span><input id="firm" maxlength="80" placeholder="LAUNCH"></label>
+          </div>
+          <label>Your startup, in one line<input id="startup" maxlength="400" placeholder="A habit app that turns your run into a guided meditation" required></label>
+          <label>Apps your customers already use<input id="comps" maxlength="240" placeholder="Calm, Strava, Headspace" required><span class="help">Two to four, separated by commas. Qloo uses them to find your audience.</span></label>
+          <button class="cta" type="submit">Build my brief <i class="ph ph-arrow-right"></i></button>
+        </form>
+      </div>
+      <figure class="hero-shot">
+        <img src="/img/pitchprep-brief.png" alt="A finished Pitchprep brief for Jason Calacanis: fit score, the portfolio companies your customers rate highest, and openers" width="1200" height="900">
+      </figure>
+    </section>
+
+    <section class="try">
+      <h2>See a finished brief in seconds</h2>
+      <p class="sub">Real runs on three of the hackathon judges, for a sample live-events startup. Public, professional information only.</p>
+      <div class="try-list">
+        <button type="button" class="try-card" data-i="Jason Calacanis" data-f="LAUNCH"><b>Jason Calacanis</b><span>LAUNCH</span><i class="ph ph-arrow-up-right"></i></button>
+        <button type="button" class="try-card" data-i="Todd Boehly" data-f="Eldridge"><b>Todd Boehly</b><span>Eldridge</span><i class="ph ph-arrow-up-right"></i></button>
+        <button type="button" class="try-card" data-i="Michael Abrams" data-f="Live Nation"><b>Michael Abrams</b><span>Live Nation</span><i class="ph ph-arrow-up-right"></i></button>
+      </div>
+    </section>
+
+    <section class="how">
+      <h2>How it works</h2>
+      <ol class="how-list">
+        <li><i class="ph ph-globe-hemisphere-west"></i><div><b>Research the investor</b><p>Web search finds their thesis, stages, portfolio and the public things they host or recommend. Every fact links to its source.</p><span class="tag web">Web</span></div></li>
+        <li><i class="ph ph-graph"></i><div><b>Score their portfolio for your customers</b><p>Qloo ranks each portfolio company by how much people who use your comparable apps like it, compares the two crowds' ages, and finds what fans of the investor's public interests also love.</p><span class="tag qloo">Qloo</span></div></li>
+        <li><i class="ph ph-file-text"></i><div><b>Get a one-page brief</b><p>Which companies to name, what to open with, how to fix the deck and what they will ask. Any name Qloo did not return is flagged.</p><span class="tag ai">Interpretation</span></div></li>
+      </ol>
+    </section>
+  </main>
+
+  <main id="out" hidden>
+    <div class="out-bar">
+      <button id="again" class="ghost" type="button"><i class="ph ph-arrow-left"></i> New brief</button>
+      <div class="legend"><span class="tag web">Web</span><span class="tag qloo">Qloo</span><span class="tag ai">Interpretation</span></div>
+      <button id="copy" class="ghost" type="button" hidden><i class="ph ph-copy"></i> Copy brief</button>
+    </div>
+
+    <header class="brief-head">
+      <div>
+        <p class="when" id="o-kicker">Researching</p>
+        <h1 id="o-name">One moment</h1>
+        <p id="o-role" class="role"></p>
+        <p id="demo-note" class="note" hidden>A recorded run for the sample startup, so it opens instantly. Fill in the form to research anyone live.</p>
+      </div>
+      <div id="o-fit" class="fit" hidden><b></b><span>fit out of 100</span></div>
+    </header>
+
+    <ol id="steps" class="steps"></ol>
+
+    <div id="o-body" hidden>
+      <p id="o-headline" class="headline"></p>
+
+      <section class="part">
+        <div class="part-label"><h2>Name these companies</h2><span class="tag qloo">Qloo</span></div>
+        <div class="part-body">
+          <ol id="o-portfolio" class="ranked"></ol>
+          <p id="o-fit-note" class="small"></p>
+        </div>
+      </section>
+
+      <section class="part compare">
+        <div class="part-label"><h2>With and without Qloo</h2></div>
+        <div class="part-body">
+          <div class="cmp">
+            <div><h3>Pitchprep, with Qloo</h3><ol id="cmp-qloo" class="cmp-list"></ol></div>
+            <div><h3>An LLM alone, same research</h3><ol id="cmp-llm" class="cmp-list"></ol></div>
+          </div>
+          <p id="cmp-note" class="small"></p>
+        </div>
+      </section>
+
+      <section class="part">
+        <div class="part-label"><h2>Open with</h2><span class="tag qloo">Qloo</span></div>
+        <div class="part-body"><div id="o-openers" class="openers"></div></div>
+      </section>
+
+      <section class="part">
+        <div class="part-label"><h2>What they back</h2><span class="tag web">Web</span></div>
+        <div class="part-body">
+          <p id="o-thesis" class="thesis"></p>
+          <dl id="o-facts" class="facts"></dl>
+        </div>
+      </section>
+
+      <section class="part">
+        <div class="part-label"><h2>The angle</h2><span class="tag ai">Interpretation</span></div>
+        <div class="part-body">
+          <p id="o-angle"></p>
+          <div class="lists">
+            <div><h3>Fix the deck</h3><ol id="o-deck"></ol></div>
+            <div><h3>They will ask</h3><ol id="o-questions"></ol></div>
+            <div><h3>Avoid</h3><ul id="o-avoid"></ul></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="part">
+        <div class="part-label"><h2>Sources</h2><span class="tag web">Web</span></div>
+        <div class="part-body"><ol id="o-sources" class="sources"></ol></div>
+      </section>
+
+      <details class="part made">
+        <summary>How this brief was made <span id="calls-count"></span></summary>
+        <ol id="o-made" class="steps made-steps"></ol>
+        <ol id="o-calls" class="calls"></ol>
+      </details>
+    </div>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <footer class="foot">Taste data from <a href="https://www.qloo.com" target="_blank" rel="noreferrer">Qloo</a>. The investor's name is never sent to Qloo, and affinities describe crowds, not people.</footer>
+</body>
+</html>

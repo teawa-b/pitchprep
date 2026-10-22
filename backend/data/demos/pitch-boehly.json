@@ -1,0 +1,1149 @@
+{
+ "site": "pitch",
+ "slug": "boehly",
+ "title": "Todd Boehly",
+ "request": {
+  "investor": "Todd Boehly",
+  "firm": "Eldridge",
+  "startup": "A live-events app that turns a concert ticket into a night out: pre-show bars, merch and rides, picked for each fanbase",
+  "comps": "Ticketmaster, Spotify, Uber"
+ },
+ "events": [
+  {
+   "type": "step",
+   "id": "research",
+   "label": "Researching Todd Boehly on the web"
+  },
+  {
+   "type": "step_done",
+   "id": "research",
+   "summary": "Eldridge Industries (private holding company, Miami); Eldridge (asset management and insurance holding company, launched late 2024) · 15 portfolio companies · 5 sources"
+  },
+  {
+   "type": "step",
+   "id": "resolve",
+   "label": "Finding the portfolio, their interests and your product in Qloo"
+  },
+  {
+   "type": "step_done",
+   "id": "resolve",
+   "summary": "7/15 portfolio · 5 interests · comps: Ticketmaster, Spotify, Uber"
+  },
+  {
+   "type": "step",
+   "id": "fit",
+   "label": "Scoring their portfolio against your customers"
+  },
+  {
+   "type": "step_done",
+   "id": "fit",
+   "summary": "fit 82/100 · closest: Chelsea F.C., Los Angeles Dodgers, A24, DraftKings, Gopuff"
+  },
+  {
+   "type": "step",
+   "id": "rapport",
+   "label": "Finding common ground in what they publicly love"
+  },
+  {
+   "type": "step_done",
+   "id": "rapport",
+   "summary": "Coach Wooden and Me: Our 50-Year Friendship On and Off the Court, Renegades: Born in the USA, A Giant Win: Inside the New York Giants' Historic Upset over the New England Patriots in Super Bowl XLII, Raise a Fist, Take a Knee: Race and the Illusion of Progress in Modern Sports"
+  },
+  {
+   "type": "step",
+   "id": "brief",
+   "label": "Writing your pitch brief"
+  },
+  {
+   "type": "step_done",
+   "id": "brief",
+   "summary": "Todd Boehly's Eldridge builds and holds sports and youth media businesses, and its recent Overtime deal and 25-29 fan ov"
+  },
+  {
+   "type": "step",
+   "id": "baseline",
+   "label": "Asking the same question without Qloo"
+  },
+  {
+   "type": "step_done",
+   "id": "baseline",
+   "summary": "Gopuff: Qloo #5 of 7, Cloud9: Qloo #6 of 7, Overtime: Qloo #7 of 7"
+  },
+  {
+   "type": "final",
+   "dossier": {
+    "name": "Todd Boehly",
+    "firm": "Eldridge Industries (private holding company, Miami); Eldridge (asset management and insurance holding company, launched late 2024)",
+    "role": "Co-founder, chairman and CEO of Eldridge Industries; chairman of Eldridge",
+    "thesis": "Builds and holds a diversified group of businesses across insurance, credit, asset management, media, sports and consumer, often with long or indefinite holding periods. Current focus is growing a consolidated asset management platform centred on diversified credit.",
+    "stages": "Not publicly specified. Eldridge makes control, acquisition and minority-stake deals rather than venture-stage investments.",
+    "cheque": "",
+    "looks_for": [
+     "Credit and insurance-focused businesses",
+     "Asset managers with $3B to $50B in assets in the US and Europe, as the industry consolidates",
+     "Permanent capital and indefinite holding periods",
+     "Premium sports and youth media properties"
+    ],
+    "portfolio": [
+     "Security Benefit",
+     "Penske Media (joint venture, Penske Media Eldridge)",
+     "A24",
+     "Fulwell Entertainment",
+     "Cain International",
+     "Maranon Capital",
+     "Panagram",
+     "Metropolis Technologies",
+     "Gopuff",
+     "DraftKings",
+     "Cloud9",
+     "Chelsea F.C. (former co-owner)",
+     "Los Angeles Dodgers (minority stake)",
+     "Overtime",
+     "Koho"
+    ],
+    "public_interests": [
+     {
+      "name": "Chelsea F.C.",
+      "kind": "team",
+      "why": "Former chairman and co-controlling owner, via BlueCo"
+     },
+     {
+      "name": "Los Angeles Dodgers",
+      "kind": "team",
+      "why": "Holds a minority stake personally and through Eldridge"
+     },
+     {
+      "name": "Los Angeles Lakers",
+      "kind": "team",
+      "why": "Holds a personal minority stake"
+     },
+     {
+      "name": "The Hollywood Reporter",
+      "kind": "brand",
+      "why": "Acquired by Eldridge from Guggenheim Partners"
+     },
+     {
+      "name": "Golden Globe Awards",
+      "kind": "tv_show",
+      "why": "Eldridge and Dick Clark Productions acquired the awards' assets from the Hollywood Foreign Press Association"
+     },
+     {
+      "name": "Bruce Springsteen song catalog",
+      "kind": "artist",
+      "why": "Eldridge invested in his song rights"
+     }
+    ],
+    "recent": [
+     "September 2026: Eldridge Capital Management led a strategic investment round in youth sports media company Overtime (size undisclosed)",
+     "April 2026: Eldridge leased top floors of 125 W. 57th St. in New York as its new office",
+     "Late 2024: Eldridge restructured into Eldridge Industries and the new Eldridge asset and insurance holding company, with about $70B in assets under management"
+    ],
+    "sources": [
+     {
+      "url": "https://www.forbes.com/profile/todd-boehly/",
+      "title": "forbes.com/profile/todd-boehly/"
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Todd_Boehly",
+      "title": "en.wikipedia.org/wiki/Todd_Boehly"
+     },
+     {
+      "url": "https://www.aaespeakers.com/keynote-speakers/todd-boehly",
+      "title": "aaespeakers.com/keynote-speakers/todd-boehly"
+     },
+     {
+      "url": "https://www.wealthmanagement.com/alternative-investments/todd-boehly-is-building-new-asset-manager-around-crown-jewel",
+      "title": "wealthmanagement.com/alternative-investments/todd-boehly-is-building-new-asset-m"
+     },
+     {
+      "url": "https://ionanalytics.com/insights/debtwire/creditflux/eldridge-revam",
+      "title": "ionanalytics.com/insights/debtwire/creditflux/eldridge-revam"
+     }
+    ]
+   },
+   "resolved": {
+    "portfolio": [
+     {
+      "name": "A24",
+      "id": "7E904879-87BC-4BA6-B4AB-6E380A4C250D",
+      "type": "brand",
+      "popularity": 0.991,
+      "tags": [
+       "Entertainment companies established in 2012",
+       "2012 establishments in New York City",
+       "Film distributors of the United States",
+       "American companies established in 2012",
+       "Entertainment companies based in New York City",
+       "Film production companies of the United States"
+      ],
+      "image": "https://images.qloo.com/i/7E904879-87BC-4BA6-B4AB-6E380A4C250D-420x-auto.jpg",
+      "detail": "A24 is an American independent entertainment company specializing in film and television production and distribution, known for unique and acclaimed movies.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     },
+     {
+      "name": "Gopuff",
+      "id": "DA0C667A-58B6-4A58-BBAA-3DE80C8E0402",
+      "type": "brand",
+      "popularity": 0.862,
+      "tags": [
+       "Bold Blue Branding",
+       "Clean Minimalist Interface",
+       "User-Friendly Design",
+       "High-Visibility Graphics",
+       "Seamless Living",
+       "Stress-Free Household Management"
+      ],
+      "image": "https://images.qloo.com/i/DA0C667A-58B6-4A58-BBAA-3DE80C8E0402-420x-auto.jpg",
+      "detail": "Gopuff is an American instant commerce platform delivering groceries, snacks, alcohol, and everyday essentials in as fast as 15 minutes.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     },
+     {
+      "name": "DraftKings",
+      "id": "611A80EB-E05C-4391-9225-602E96256BEA",
+      "type": "brand",
+      "popularity": 0.946,
+      "tags": [
+       "Companies listed on the Nasdaq",
+       "Fantasy sports websites",
+       "Browser-based game websites",
+       "Companies based in Boston",
+       "Special-purpose acquisition companies",
+       "Daily fantasy sports"
+      ],
+      "image": "https://images.qloo.com/i/611A80EB-E05C-4391-9225-602E96256BEA-420x-auto.jpg",
+      "detail": "DraftKings is an American gambling company offering sportsbook, daily fantasy sports, and online casino betting services.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     },
+     {
+      "name": "Cloud9",
+      "id": "89C93A10-AA59-4AC9-AB4B-39CC762F5A4E",
+      "type": "brand",
+      "popularity": 0.983,
+      "tags": [
+       "Modern",
+       "Clean",
+       "Digital-First",
+       "High-Contrast",
+       "Professional Gaming Career",
+       "Championship Success"
+      ],
+      "image": "https://images.qloo.com/i/89C93A10-AA59-4AC9-AB4B-39CC762F5A4E-420x-auto.jpg",
+      "detail": "Cloud9 is a professional esports organization founded in 2013, known for competitive teams in games like Rainbow Six Siege and Valorant, and offering branded merchandise.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     },
+     {
+      "name": "Chelsea F.C.",
+      "id": "A21D248A-7379-458E-A3BE-7B8C4B961AF6",
+      "type": "brand",
+      "popularity": 1,
+      "tags": [
+       "England Soccer",
+       "Soccer",
+       "Sports Organization",
+       "Royal Blue Branding",
+       "Minimalist Crest",
+       "Iconic Stadium Architecture"
+      ],
+      "image": "https://images.qloo.com/i/A21D248A-7379-458E-A3BE-7B8C4B961AF6-420x-auto.jpg",
+      "detail": "Chelsea F.C. is a professional football club based in London, competing in the English Premier League and known for playing home games at Stamford Bridge.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     },
+     {
+      "name": "Los Angeles Dodgers",
+      "id": "9B8B279C-B777-4293-8121-B8174970B57D",
+      "type": "brand",
+      "popularity": 0.994,
+      "tags": [
+       "Major League Baseball",
+       "Sports Organization",
+       "Baseball",
+       "Classic Blue and White Palette",
+       "Interlocking Letters",
+       "Retro-Inspired Typography"
+      ],
+      "image": "https://images.qloo.com/i/9B8B279C-B777-4293-8121-B8174970B57D-420x-auto.jpg",
+      "detail": "The Los Angeles Dodgers are a professional Major League Baseball team based in Los Angeles, known for their successful history and popular players.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     },
+     {
+      "name": "Overtime",
+      "id": "4443293B-8360-4812-9D34-ACA92E5CAA11",
+      "type": "brand",
+      "popularity": 0.991,
+      "tags": [
+       "TV Networks",
+       "Entertainment",
+       "High-Contrast Visuals",
+       "Fast-Paced Editing",
+       "Bold Typography",
+       "Street-Inspired Graphic Design"
+      ],
+      "image": "https://images.qloo.com/i/4443293B-8360-4812-9D34-ACA92E5CAA11-420x-auto.jpg",
+      "detail": "Overtime is a leading sports media brand focused on engaging the next generation of sports fans through digital content and influencer-driven sports coverage.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     }
+    ],
+    "interests": [
+     {
+      "name": "Chelsea F.C.",
+      "id": "A21D248A-7379-458E-A3BE-7B8C4B961AF6",
+      "type": "brand",
+      "popularity": 1,
+      "tags": [
+       "England Soccer",
+       "Soccer",
+       "Sports Organization",
+       "Royal Blue Branding",
+       "Minimalist Crest",
+       "Iconic Stadium Architecture"
+      ],
+      "image": "https://images.qloo.com/i/A21D248A-7379-458E-A3BE-7B8C4B961AF6-420x-auto.jpg",
+      "detail": "Chelsea F.C. is a professional football club based in London, competing in the English Premier League and known for playing home games at Stamford Bridge.",
+      "types": [
+       "urn:entity:brand"
+      ],
+      "why": "Former chairman and co-controlling owner, via BlueCo"
+     },
+     {
+      "name": "Los Angeles Dodgers",
+      "id": "9B8B279C-B777-4293-8121-B8174970B57D",
+      "type": "brand",
+      "popularity": 0.994,
+      "tags": [
+       "Major League Baseball",
+       "Sports Organization",
+       "Baseball",
+       "Classic Blue and White Palette",
+       "Interlocking Letters",
+       "Retro-Inspired Typography"
+      ],
+      "image": "https://images.qloo.com/i/9B8B279C-B777-4293-8121-B8174970B57D-420x-auto.jpg",
+      "detail": "The Los Angeles Dodgers are a professional Major League Baseball team based in Los Angeles, known for their successful history and popular players.",
+      "types": [
+       "urn:entity:brand"
+      ],
+      "why": "Holds a minority stake personally and through Eldridge"
+     },
+     {
+      "name": "Los Angeles Lakers",
+      "id": "9EA0A171-B6E8-49BE-A216-739460F6FC91",
+      "type": "brand",
+      "popularity": 0.998,
+      "tags": [
+       "NBA",
+       "Sports Organization",
+       "Basketball",
+       "Purple And Gold Branding",
+       "Classic Team Imagery",
+       "High-Energy Visuals"
+      ],
+      "image": "https://images.qloo.com/i/9EA0A171-B6E8-49BE-A216-739460F6FC91-420x-auto.jpg",
+      "detail": "The Los Angeles Lakers are a professional NBA basketball team known for winning 17 championships, making them one of the most successful teams in league history.",
+      "types": [
+       "urn:entity:brand"
+      ],
+      "why": "Holds a personal minority stake"
+     },
+     {
+      "name": "2021 Golden Globe Awards",
+      "id": "194DD9E3-A3FB-4B9E-A7F5-E9EE5D21177A",
+      "type": "tv_show",
+      "tags": [
+       "Tribute oriented",
+       "Lighthearted",
+       "Nostalgia",
+       "Red carpet",
+       "Recognition",
+       "Awards ceremony"
+      ],
+      "image": "https://images.qloo.com/i/194DD9E3-A3FB-4B9E-A7F5-E9EE5D21177A-420x-auto.jpg",
+      "detail": "2021",
+      "types": [
+       "urn:entity:tv_show"
+      ],
+      "why": "Eldridge and Dick Clark Productions acquired the awards' assets from the Hollywood Foreign Press Association"
+     },
+     {
+      "name": "Bruce Springsteen",
+      "id": "120E288E-858F-4AC1-A825-736D5A16D65F",
+      "type": "artist",
+      "popularity": 0.999,
+      "tags": [
+       "Singer & Songwriter",
+       "Folk",
+       "Classic Rock",
+       "80s",
+       "Rock",
+       "Loyal"
+      ],
+      "image": "https://images.qloo.com/i/120E288E-858F-4AC1-A825-736D5A16D65F-420x-auto.jpg",
+      "detail": "Bruce Springsteen",
+      "types": [
+       "urn:entity:artist"
+      ],
+      "why": "Eldridge invested in his song rights"
+     }
+    ],
+    "comps": [
+     {
+      "name": "Ticketmaster",
+      "id": "177ABEBD-6662-4362-98A1-17257CA783C8",
+      "type": "brand",
+      "popularity": 0.988,
+      "tags": [
+       "Mobile App",
+       "Live Nation Entertainment",
+       "Ticket sales companies",
+       "West Hollywood",
+       "2010 mergers and acquisitions",
+       "Monopolies"
+      ],
+      "image": "https://images.qloo.com/i/177ABEBD-6662-4362-98A1-17257CA783C8-420x-auto.jpg",
+      "detail": "Ticketmaster is a global platform for buying and selling verified tickets for concerts, sports, theater, and other live events.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     },
+     {
+      "name": "Spotify",
+      "id": "99CBD9B1-F023-4034-97E7-E95A4A85BDD2",
+      "type": "brand",
+      "popularity": 0.998,
+      "tags": [
+       "Streaming Service App",
+       "Advertising Enabled",
+       "Mobile App",
+       "Music App",
+       "Minimalist",
+       "High-Contrast"
+      ],
+      "image": "https://images.qloo.com/i/99CBD9B1-F023-4034-97E7-E95A4A85BDD2-420x-auto.jpg",
+      "detail": "Spotify is a global audio streaming platform offering music, podcasts, and personalized listening experiences.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     },
+     {
+      "name": "Uber",
+      "id": "DAA03219-916F-491D-9F1C-E780DFA8A5DB",
+      "type": "brand",
+      "popularity": 0.99,
+      "tags": [
+       "Travel App",
+       "2019 initial public offerings",
+       "Mobile App",
+       "American companies established in 2009",
+       "Software",
+       "Transport companies established in 2009"
+      ],
+      "image": "https://images.qloo.com/i/DAA03219-916F-491D-9F1C-E780DFA8A5DB-420x-auto.jpg",
+      "detail": "Uber is a global technology company known for its ride-hailing service and Uber Eats, a popular food delivery platform.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     }
+    ]
+   },
+   "fit": {
+    "ranked": [
+     {
+      "name": "Chelsea F.C.",
+      "id": "A21D248A-7379-458E-A3BE-7B8C4B961AF6",
+      "type": "brand",
+      "popularity": 1,
+      "affinity": 0.787,
+      "tags": [
+       "England Soccer",
+       "Soccer",
+       "Sports Organization",
+       "Royal Blue Branding",
+       "Minimalist Crest",
+       "Iconic Stadium Architecture"
+      ],
+      "image": "https://images.qloo.com/i/A21D248A-7379-458E-A3BE-7B8C4B961AF6-420x-auto.jpg",
+      "detail": "Chelsea F.C. is a professional football club based in London, competing in the English Premier League and known for playing home games at Stamford Bridge."
+     },
+     {
+      "name": "Los Angeles Dodgers",
+      "id": "9B8B279C-B777-4293-8121-B8174970B57D",
+      "type": "brand",
+      "popularity": 0.994,
+      "affinity": 0.777,
+      "tags": [
+       "Major League Baseball",
+       "Sports Organization",
+       "Baseball",
+       "Classic Blue and White Palette",
+       "Interlocking Letters",
+       "Retro-Inspired Typography"
+      ],
+      "image": "https://images.qloo.com/i/9B8B279C-B777-4293-8121-B8174970B57D-420x-auto.jpg",
+      "detail": "The Los Angeles Dodgers are a professional Major League Baseball team based in Los Angeles, known for their successful history and popular players."
+     },
+     {
+      "name": "A24",
+      "id": "7E904879-87BC-4BA6-B4AB-6E380A4C250D",
+      "type": "brand",
+      "popularity": 0.991,
+      "affinity": 0.767,
+      "tags": [
+       "Entertainment companies established in 2012",
+       "2012 establishments in New York City",
+       "Film distributors of the United States",
+       "American companies established in 2012",
+       "Entertainment companies based in New York City",
+       "Film production companies of the United States"
+      ],
+      "image": "https://images.qloo.com/i/7E904879-87BC-4BA6-B4AB-6E380A4C250D-420x-auto.jpg",
+      "detail": "A24 is an American independent entertainment company specializing in film and television production and distribution, known for unique and acclaimed movies."
+     },
+     {
+      "name": "DraftKings",
+      "id": "611A80EB-E05C-4391-9225-602E96256BEA",
+      "type": "brand",
+      "popularity": 0.946,
+      "affinity": 0.763,
+      "tags": [
+       "Companies listed on the Nasdaq",
+       "Fantasy sports websites",
+       "Browser-based game websites",
+       "Companies based in Boston",
+       "Special-purpose acquisition companies",
+       "Daily fantasy sports"
+      ],
+      "image": "https://images.qloo.com/i/611A80EB-E05C-4391-9225-602E96256BEA-420x-auto.jpg",
+      "detail": "DraftKings is an American gambling company offering sportsbook, daily fantasy sports, and online casino betting services."
+     },
+     {
+      "name": "Gopuff",
+      "id": "DA0C667A-58B6-4A58-BBAA-3DE80C8E0402",
+      "type": "brand",
+      "popularity": 0.862,
+      "affinity": 0.732,
+      "tags": [
+       "Bold Blue Branding",
+       "Clean Minimalist Interface",
+       "User-Friendly Design",
+       "High-Visibility Graphics",
+       "Seamless Living",
+       "Stress-Free Household Management"
+      ],
+      "image": "https://images.qloo.com/i/DA0C667A-58B6-4A58-BBAA-3DE80C8E0402-420x-auto.jpg",
+      "detail": "Gopuff is an American instant commerce platform delivering groceries, snacks, alcohol, and everyday essentials in as fast as 15 minutes."
+     },
+     {
+      "name": "Cloud9",
+      "id": "89C93A10-AA59-4AC9-AB4B-39CC762F5A4E",
+      "type": "brand",
+      "popularity": 0.983,
+      "affinity": 0.729,
+      "tags": [
+       "Modern",
+       "Clean",
+       "Digital-First",
+       "High-Contrast",
+       "Professional Gaming Career",
+       "Championship Success"
+      ],
+      "image": "https://images.qloo.com/i/89C93A10-AA59-4AC9-AB4B-39CC762F5A4E-420x-auto.jpg",
+      "detail": "Cloud9 is a professional esports organization founded in 2013, known for competitive teams in games like Rainbow Six Siege and Valorant, and offering branded merchandise."
+     },
+     {
+      "name": "Overtime",
+      "id": "4443293B-8360-4812-9D34-ACA92E5CAA11",
+      "type": "brand",
+      "popularity": 0.991,
+      "affinity": 0.727,
+      "tags": [
+       "TV Networks",
+       "Entertainment",
+       "High-Contrast Visuals",
+       "Fast-Paced Editing",
+       "Bold Typography",
+       "Street-Inspired Graphic Design"
+      ],
+      "image": "https://images.qloo.com/i/4443293B-8360-4812-9D34-ACA92E5CAA11-420x-auto.jpg",
+      "detail": "Overtime is a leading sports media brand focused on engaging the next generation of sports fans through digital content and influencer-driven sports coverage."
+     }
+    ],
+    "score": 82,
+    "mean": 0.75,
+    "ageMatch": 0.89,
+    "yourCrowd": "25-29",
+    "theirCrowd": "25-29"
+   },
+   "rapport": {
+    "books": [
+     {
+      "name": "Coach Wooden and Me: Our 50-Year Friendship On and Off the Court",
+      "id": "AB4228B4-0CCB-4C27-8086-5A7508380730",
+      "type": "book",
+      "popularity": 0.788,
+      "affinity": 0.898,
+      "tags": [
+       "Sports",
+       "History",
+       "Audiobook",
+       "Autobiography",
+       "Basketball",
+       "Biography"
+      ],
+      "image": "https://images.qloo.com/i/AB4228B4-0CCB-4C27-8086-5A7508380730-420x-auto.jpg",
+      "detail": "2017, Kareem Abdul-Jabbar"
+     },
+     {
+      "name": "Renegades: Born in the USA",
+      "id": "5A37636E-17EB-431A-ABEF-EEF6004F24A5",
+      "type": "book",
+      "popularity": 0.868,
+      "affinity": 0.883,
+      "tags": [
+       "History",
+       "Biography Memoir",
+       "Nonfiction",
+       "Music",
+       "Biography",
+       "Memoir"
+      ],
+      "image": "https://images.qloo.com/i/5A37636E-17EB-431A-ABEF-EEF6004F24A5-420x-auto.jpg",
+      "detail": "2021, Barack Obama"
+     },
+     {
+      "name": "A Giant Win: Inside the New York Giants' Historic Upset over the New England Patriots in Super Bowl XLII",
+      "id": "5B58D3AA-263B-4027-8E73-B16216B50D38",
+      "type": "book",
+      "popularity": 0.318,
+      "affinity": 0.882,
+      "tags": [
+       "Sports",
+       "Nonfiction",
+       "Football",
+       "History",
+       "18-24",
+       "25-29"
+      ],
+      "image": "https://images.qloo.com/i/5B58D3AA-263B-4027-8E73-B16216B50D38-420x-auto.jpg",
+      "detail": "2022, Tom Coughlin"
+     },
+     {
+      "name": "Raise a Fist, Take a Knee: Race and the Illusion of Progress in Modern Sports",
+      "id": "88D8FA59-E404-455F-B1A5-B894332A23E8",
+      "type": "book",
+      "popularity": 0.485,
+      "affinity": 0.876,
+      "tags": [
+       "Basketball",
+       "Social Justice",
+       "American History",
+       "Sports",
+       "Football",
+       "History"
+      ],
+      "image": "https://images.qloo.com/i/88D8FA59-E404-455F-B1A5-B894332A23E8-420x-auto.jpg",
+      "detail": "2021, John Feinstein"
+     },
+     {
+      "name": "Playing Through the Whistle: Steel, Football, and an American Town",
+      "id": "66A08965-1519-44BA-A03B-1A55CBD7F29A",
+      "type": "book",
+      "popularity": 0.469,
+      "affinity": 0.875,
+      "tags": [
+       "Sports",
+       "Race",
+       "History",
+       "Football",
+       "Nonfiction",
+       "Sociology"
+      ],
+      "image": "https://images.qloo.com/i/66A08965-1519-44BA-A03B-1A55CBD7F29A-420x-auto.jpg",
+      "detail": "2016, S.L. Price"
+     },
+     {
+      "name": "The Dynasty",
+      "id": "4A205D32-34D8-414D-ADFC-1E71CE9D024C",
+      "type": "book",
+      "popularity": 0.931,
+      "affinity": 0.874,
+      "tags": [
+       "Nonfiction",
+       "American",
+       "History",
+       "Biography Memoir",
+       "Football",
+       "Business"
+      ],
+      "image": "https://images.qloo.com/i/4A205D32-34D8-414D-ADFC-1E71CE9D024C-420x-auto.jpg",
+      "detail": "2020, Jeff Benedict"
+     }
+    ],
+    "podcasts": [
+     {
+      "name": "I AM RAPAPORT: STEREO PODCAST",
+      "id": "D42C14F5-99FE-4C69-901C-7875A9ABC468",
+      "type": "podcast",
+      "popularity": 0.988,
+      "affinity": 0.923,
+      "tags": [
+       "Sports",
+       "Football",
+       "Podcasts",
+       "Basketball"
+      ],
+      "image": "https://images.qloo.com/i/D42C14F5-99FE-4C69-901C-7875A9ABC468-420x-auto.jpg",
+      "detail": "Michael Rapaport shares his humorous and provocative views on life, sports, music, film, and more."
+     },
+     {
+      "name": "Monday Morning Podcast",
+      "id": "853C9C96-DC04-4F4C-9772-CD5C33396085",
+      "type": "podcast",
+      "popularity": 0.997,
+      "affinity": 0.916,
+      "tags": [
+       "Comedy",
+       "Podcasts"
+      ],
+      "image": "https://images.qloo.com/i/853C9C96-DC04-4F4C-9772-CD5C33396085-420x-auto.jpg",
+      "detail": "Bill Burr shares candid rants on relationships, sports, and current events in a comedic format."
+     },
+     {
+      "name": "Mohr Stories",
+      "id": "09089B98-71BE-41C4-981A-18C12AC6765D",
+      "type": "podcast",
+      "popularity": 0.997,
+      "affinity": 0.904,
+      "tags": [
+       "Comedy Interviews",
+       "Comedy",
+       "Podcasts"
+      ],
+      "image": "https://images.qloo.com/i/09089B98-71BE-41C4-981A-18C12AC6765D-420x-auto.jpg",
+      "detail": "Jay Mohr and his friends share hilarious stories and conversations on a wide range of topics."
+     },
+     {
+      "name": "Jalen & Jacoby",
+      "id": "807E270A-4B12-4DD4-978E-D5401850A6FE",
+      "type": "podcast",
+      "popularity": 0.989,
+      "affinity": 0.904,
+      "tags": [
+       "Sports",
+       "Podcasts"
+      ],
+      "image": "https://images.qloo.com/i/807E270A-4B12-4DD4-978E-D5401850A6FE-420x-auto.jpg",
+      "detail": "Jalen Rose and David Jacoby break down sports and pop culture with unique insights and humor."
+     },
+     {
+      "name": "How Neal Feel",
+      "id": "8098607A-2BD8-4448-AE69-043DE4CF73CE",
+      "type": "podcast",
+      "popularity": 0.941,
+      "affinity": 0.903,
+      "tags": [
+       "Comedy",
+       "Podcasts"
+      ],
+      "image": "https://images.qloo.com/i/8098607A-2BD8-4448-AE69-043DE4CF73CE-420x-auto.jpg",
+      "detail": "Comedian Neal Brennan and co-host Bianca Sia discuss current events, race, gender, sex, and technology."
+     },
+     {
+      "name": "WTF with Marc Maron Podcast",
+      "id": "F9268AA8-6874-4ADA-A41B-0EBD2BCEAEA8",
+      "type": "podcast",
+      "popularity": 0.998,
+      "affinity": 0.899,
+      "tags": [
+       "Comedy",
+       "Podcasts"
+      ],
+      "image": "https://images.qloo.com/i/F9268AA8-6874-4ADA-A41B-0EBD2BCEAEA8-420x-auto.jpg",
+      "detail": "Marc Maron hosts revealing conversations with a diverse range of guests, exploring their lives and careers in depth."
+     }
+    ],
+    "brands": [
+     {
+      "name": "Nike",
+      "id": "C70CE2B8-0AD1-4150-BF18-5A6347F2E860",
+      "type": "brand",
+      "popularity": 1,
+      "affinity": 0.958,
+      "tags": [
+       "Nike",
+       "Fashion",
+       "1970s fashion",
+       "Watch manufacturing companies of the United States",
+       "Clothing companies established in 1964",
+       "Sportswear brands"
+      ],
+      "image": "https://images.qloo.com/i/C70CE2B8-0AD1-4150-BF18-5A6347F2E860-420x-auto.jpg",
+      "detail": "Nike is a global brand specializing in athletic footwear, apparel, equipment, and accessories for men, women, and kids."
+     },
+     {
+      "name": "Golden State Warriors",
+      "id": "F8B5FC50-B377-41F9-9A5F-A422F391EDA3",
+      "type": "brand",
+      "popularity": 0.999,
+      "affinity": 0.951,
+      "tags": [
+       "NBA",
+       "Basketball",
+       "Sports Organization",
+       "Blue And Yellow Color Palette",
+       "Bridge-Inspired Branding",
+       "High-Energy Visuals"
+      ],
+      "image": "https://images.qloo.com/i/F8B5FC50-B377-41F9-9A5F-A422F391EDA3-420x-auto.jpg",
+      "detail": "The Golden State Warriors are a professional NBA basketball team based in San Francisco, known for their competitive play and community engagement."
+     },
+     {
+      "name": "Bleacher Report",
+      "id": "CCE5BA3B-4F8C-4569-AAA4-823F924EB48A",
+      "type": "brand",
+      "popularity": 1,
+      "affinity": 0.945,
+      "tags": [
+       "Sports",
+       "Sports App",
+       "Advertising Enabled",
+       "Mobile App",
+       "Entertainment",
+       "Media"
+      ],
+      "image": "https://images.qloo.com/i/CCE5BA3B-4F8C-4569-AAA4-823F924EB48A-420x-auto.jpg",
+      "detail": "Bleacher Report is a digital sports media brand offering sports news, highlights, expert analysis, live event streaming, and scores."
+     },
+     {
+      "name": "National Basketball Association",
+      "id": "9EF3B4AA-C638-4930-B673-0A930A4063AD",
+      "type": "brand",
+      "popularity": 1,
+      "affinity": 0.945,
+      "tags": [
+       "Sports App",
+       "Mobile App",
+       "Basketball",
+       "Sports Organization",
+       "Advertising Enabled",
+       "Leagues & Tournaments"
+      ],
+      "image": "https://images.qloo.com/i/9EF3B4AA-C638-4930-B673-0A930A4063AD-420x-auto.jpg",
+      "detail": "The National Basketball Association (NBA) is a professional basketball league featuring top teams and players, known for its global influence and popular events like the NBA playoffs."
+     },
+     {
+      "name": "Air Jordan Product Line",
+      "id": "E26BC58D-18D2-405B-BC7B-7C556ADE3829",
+      "type": "brand",
+      "popularity": 0.999,
+      "affinity": 0.942,
+      "tags": [
+       "Basketball",
+       "Sneakers",
+       "Fashion",
+       "Footwear",
+       "Bold Branding",
+       "Dynamic Silhouettes"
+      ],
+      "image": "https://images.qloo.com/i/E26BC58D-18D2-405B-BC7B-7C556ADE3829-420x-auto.jpg",
+      "detail": "Air Jordan is a Nike brand product line featuring basketball shoes and athletic apparel inspired by Michael Jordan."
+     },
+     {
+      "name": "ESPN",
+      "id": "7EAAE114-FD3D-4C26-9027-7C0012D787A4",
+      "type": "brand",
+      "popularity": 1,
+      "affinity": 0.94,
+      "tags": [
+       "Sports",
+       "Media",
+       "TV Networks",
+       "Mobile App",
+       "Sports App",
+       "Entertainment"
+      ],
+      "image": "https://images.qloo.com/i/7EAAE114-FD3D-4C26-9027-7C0012D787A4-420x-auto.jpg",
+      "detail": "espnW is ESPN's digital brand focused on women's sports, culture, and athletes, providing news, rankings, and events."
+     }
+    ]
+   },
+   "brief": {
+    "headline": "Todd Boehly's Eldridge builds and holds sports and youth media businesses, and its recent Overtime deal and 25-29 fan overlap make a fan-night app a plausible strategic fit, though Eldridge does control and minority deals rather than venture rounds.",
+    "angle": "Position the startup as a fan-engagement platform that extends the sports and youth media fan relationship into the live night out, with a clear path to a larger consolidated consumer platform. Frame the ask as a strategic or minority conversation, not a seed round, and lead with how the product deepens fan loyalty for properties Eldridge already touches.",
+    "name_drop": [
+     {
+      "company": "Overtime",
+      "line": "Eldridge Capital led a strategic round in Overtime in September 2026, and we are building the in-person side of the same youth fan relationship: the night out after the screen.",
+      "name": "Overtime",
+      "grounded": true
+     },
+     {
+      "company": "Los Angeles Dodgers",
+      "line": "Our users over-index on Los Angeles Dodgers fandom, so pre-game and post-game routines around games are exactly where we add value.",
+      "name": "Los Angeles Dodgers",
+      "grounded": true
+     },
+     {
+      "company": "Chelsea F.C.",
+      "line": "Our customers' affinity for Chelsea F.C. is strong, and we turn that match-day energy into a full night with bars, merch and rides.",
+      "name": "Chelsea F.C.",
+      "grounded": true
+     }
+    ],
+    "deck": [
+     "Lead with retention and repeat behaviour among 25-29 year olds, since their portfolio and your crowd share that age band.",
+     "Show the sports and youth media fan overlap with your customer data, using the affinity scores for Overtime, Los Angeles Dodgers and Chelsea F.C.",
+     "Explain the three revenue lines (pre-show bars, merch, rides) and how each one grows with event frequency per fan.",
+     "Position Ticketmaster, Spotify and Uber as reference points for how a fan platform becomes a daily habit, and state clearly where you are different.",
+     "Include a slide on how you would fit inside a consolidated platform, such as shared fan data or partner distribution, without implying a credit or insurance link."
+    ],
+    "openers": [
+     {
+      "line": "How do you see sports media platforms like Bleacher Report turning fan attention into repeat, paid behaviour?",
+      "based_on": "Bleacher Report",
+      "name": "Bleacher Report",
+      "grounded": true
+     },
+     {
+      "line": "What makes game-day rituals stick for a club like the Golden State Warriors, and where do those rituals fall short?",
+      "based_on": "Golden State Warriors",
+      "name": "Golden State Warriors",
+      "grounded": true
+     },
+     {
+      "line": "When a brand like Nike thinks about fans before an event, where does the experience usually break down?",
+      "based_on": "Nike",
+      "name": "Nike",
+      "grounded": true
+     }
+    ],
+    "avoid": [
+     "Do not pitch this as a venture-stage seed round, since Eldridge's stated approach is control, acquisition and minority-stake deals.",
+     "Do not claim Todd Boehly personally loves any of these properties; the common-ground list reflects what fans of his public interests also enjoy.",
+     "Do not lead with credit, insurance or asset management themes, since your startup has no link to them and it will read as a mismatch."
+    ],
+    "questions": [
+     "What size of stake or level of control would you consider in a company at this stage, and would you take a minority position?",
+     "How would a live-events app fit alongside Overtime and your other sports and media holdings, and what would the strategic rationale be?",
+     "What is your take rate on pre-show bars, merch and rides, and how does per-fan spend change across repeat events?"
+    ]
+   },
+   "baseline": {
+    "picks": [
+     {
+      "company": "Gopuff",
+      "line": "We're building the night-out layer around the ticket the way on-demand delivery reshaped everyday errands, so fans can get drinks and merch delivered or picked up before doors open.",
+      "rank": 5,
+      "of": 7,
+      "affinity": 0.732
+     },
+     {
+      "company": "Cloud9",
+      "line": "Fan identity drives how people spend around an event, and we're designing each fanbase's pre-show experience to match the community norms that Cloud9 has built around its audience.",
+      "rank": 6,
+      "of": 7,
+      "affinity": 0.729
+     },
+     {
+      "company": "Overtime",
+      "line": "Overtime has shown how much engagement a young fanbase will give a brand that speaks its language, and we're applying that same approach to the hours around a concert.",
+      "rank": 7,
+      "of": 7,
+      "affinity": 0.727
+     }
+    ],
+    "openers": [
+     {
+      "line": "Fans already book the ticket on Ticketmaster and the ride on Uber, but nobody owns the hours in between, and that's the gap we're filling."
+     },
+     {
+      "line": "A concert is one of the few times a fan spends a full evening with a community, so we built an app that turns the ticket into the whole night out."
+     }
+    ]
+   }
+  },
+  {
+   "type": "done",
+   "qlooCalls": [
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Ticketmaster&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 388,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Uber&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 404,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Spotify&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 406,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=A24&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 143,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Security+Benefit&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 188,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Penske+Media+%28joint+venture%2C+Penske+Media+Eldridge%29&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 197,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Cain+International&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 139,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Maranon+Capital&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 140,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Fulwell+Entertainment&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 166,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Panagram&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 129,
+     "ok": false,
+     "status": 429
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Gopuff&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 129,
+     "ok": false,
+     "status": 429
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Metropolis+Technologies&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 150,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Panagram&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 137,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Gopuff&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 143,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=DraftKings&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 135,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Cloud9&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 141,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Chelsea+F.C.+%28former+co-owner%29&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 162,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Los+Angeles+Dodgers+%28minority+stake%29&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 140,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Overtime&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 144,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Koho&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 189,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Los+Angeles+Dodgers&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 133,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Chelsea+F.C.&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 146,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Los+Angeles+Lakers&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 334,
+     "ok": false,
+     "status": 429
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Los+Angeles+Lakers&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 146,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Golden+Globe+Awards&types=urn%3Aentity%3Atv_show&take=3",
+     "ms": 140,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=The+Hollywood+Reporter&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 142,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Bruce+Springsteen+song+catalog&types=urn%3Aentity%3Aartist&take=3",
+     "ms": 154,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/v2/insights?filter.type=urn%3Aentity%3Abrand&signal.interests.entities=177ABEBD-6662-4362-98A1-17257CA783C8%2C99CBD9B1-F023-4034-97E7-E95A4A85BDD2%2CDAA03219-916F-491D-9F1C-E780DFA8A5DB&filter.results.entities=7E904879-87BC-4BA6-B4AB-6E380A4C250D%2CDA0C667A-58B6-4A58-BBAA-3DE80C8E0402%2C611A80EB-E05C-4391-9225-602E96256BEA%2C89C93A10-AA59-4AC9-AB4B-39CC762F5A4E%2CA21D248A-7379-458E-A3BE-7B8C4B961AF6%2C9B8B279C-B777-4293-8121-B8174970B57D%2C4443293B-8360-4812-9D34-ACA92E5CAA11&take=7",
+     "ms": 270,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/v2/insights?filter.type=urn%3Ademographics&signal.interests.entities=177ABEBD-6662-4362-98A1-17257CA783C8%2C99CBD9B1-F023-4034-97E7-E95A4A85BDD2%2CDAA03219-916F-491D-9F1C-E780DFA8A5DB%2C7E904879-87BC-4BA6-B4AB-6E380A4C250D%2CDA0C667A-58B6-4A58-BBAA-3DE80C8E0402%2C611A80EB-E05C-4391-9225-602E96256BEA%2C89C93A10-AA59-4AC9-AB4B-39CC762F5A4E%2CA21D248A-7379-458E-A3BE-7B8C4B961AF6%2C9B8B279C-B777-4293-8121-B8174970B57D%2C4443293B-8360-4812-9D34-ACA92E5CAA11",
+     "ms": 155,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/v2/insights?filter.type=urn%3Aentity%3Abrand&take=6&signal.interests.entities=A21D248A-7379-458E-A3BE-7B8C4B961AF6%2C9B8B279C-B777-4293-8121-B8174970B57D%2C9EA0A171-B6E8-49BE-A216-739460F6FC91%2C194DD9E3-A3FB-4B9E-A7F5-E9EE5D21177A%2C120E288E-858F-4AC1-A825-736D5A16D65F",
+     "ms": 246,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/v2/insights?filter.type=urn%3Aentity%3Apodcast&take=6&signal.interests.entities=A21D248A-7379-458E-A3BE-7B8C4B961AF6%2C9B8B279C-B777-4293-8121-B8174970B57D%2C9EA0A171-B6E8-49BE-A216-739460F6FC91%2C194DD9E3-A3FB-4B9E-A7F5-E9EE5D21177A%2C120E288E-858F-4AC1-A825-736D5A16D65F",
+     "ms": 495,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/v2/insights?filter.type=urn%3Aentity%3Abook&take=6&signal.interests.entities=A21D248A-7379-458E-A3BE-7B8C4B961AF6%2C9B8B279C-B777-4293-8121-B8174970B57D%2C9EA0A171-B6E8-49BE-A216-739460F6FC91%2C194DD9E3-A3FB-4B9E-A7F5-E9EE5D21177A%2C120E288E-858F-4AC1-A825-736D5A16D65F",
+     "ms": 598,
+     "ok": true
+    }
+   ]
+  }
+ ],
+ "renders": [],
+ "baseline": null,
+ "recorded": "2026-10-21T18:27:48.394Z"
+}

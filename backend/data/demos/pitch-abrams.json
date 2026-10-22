@@ -1,0 +1,262 @@
+{
+ "site": "pitch",
+ "slug": "abrams",
+ "title": "Michael Abrams",
+ "request": {
+  "investor": "Michael Abrams",
+  "firm": "Live Nation",
+  "startup": "A live-events app that turns a concert ticket into a night out: pre-show bars, merch and rides, picked for each fanbase",
+  "comps": "Ticketmaster, Spotify, Uber"
+ },
+ "events": [
+  {
+   "type": "step",
+   "id": "research",
+   "label": "Researching Michael Abrams on the web"
+  },
+  {
+   "type": "step_done",
+   "id": "research",
+   "summary": "Live Nation Entertainment · 1 portfolio companies · 6 sources"
+  },
+  {
+   "type": "step",
+   "id": "resolve",
+   "label": "Finding the portfolio, their interests and your product in Qloo"
+  },
+  {
+   "type": "step_done",
+   "id": "resolve",
+   "summary": "0/1 portfolio · 0 interests · comps: Ticketmaster, Spotify, Uber"
+  },
+  {
+   "type": "step",
+   "id": "fit",
+   "label": "Scoring their portfolio against your customers"
+  },
+  {
+   "type": "step_done",
+   "id": "fit",
+   "summary": "no portfolio companies in Qloo"
+  },
+  {
+   "type": "step",
+   "id": "rapport",
+   "label": "Finding common ground in what they publicly love"
+  },
+  {
+   "type": "step_done",
+   "id": "rapport",
+   "summary": "no public interests found in Qloo"
+  },
+  {
+   "type": "step",
+   "id": "brief",
+   "label": "Writing your pitch brief"
+  },
+  {
+   "type": "step_done",
+   "id": "brief",
+   "summary": "Michael Abrams is a strategic rather than traditional venture contact, and his past work running the Live Nation Labs Fu"
+  },
+  {
+   "type": "step",
+   "id": "baseline",
+   "label": "Asking the same question without Qloo"
+  },
+  {
+   "type": "step_done",
+   "id": "baseline",
+   "summary": "Socialcam: not in Qloo"
+  },
+  {
+   "type": "final",
+   "dossier": {
+    "name": "Michael Abrams",
+    "firm": "Live Nation Entertainment",
+    "role": "EVP, Strategic Initiatives (per Crunchbase). Earlier he was President, Digital Ventures at Live Nation, and before that Senior Vice President of Innovation at The Walt Disney Company.",
+    "thesis": "Not a traditional venture investor. Public records describe a Live Nation executive who ran the Live Nation Labs Fund, which made strategic investments in early-stage entertainment technology, but I found no current investment thesis.",
+    "stages": "",
+    "cheque": "",
+    "looks_for": [],
+    "portfolio": [
+     "Socialcam"
+    ],
+    "public_interests": [],
+    "recent": [],
+    "sources": [
+     {
+      "url": "https://www.crunchbase.com/person/michael-abrams",
+      "title": "crunchbase.com/person/michael-abrams"
+     },
+     {
+      "url": "https://thewaltdisneycompany.com/michael-abrams-named-senior-vice-president-for-new-strategic-business-initiatives-at-the-walt-disney-company/",
+      "title": "thewaltdisneycompany.com/michael-abrams-named-senior-vice-president-for-new-stra"
+     },
+     {
+      "url": "https://www.cbinsights.com/investor/michael-abrams",
+      "title": "cbinsights.com/investor/michael-abrams"
+     },
+     {
+      "url": "https://celebrityaccess.com/caarchive/live-nation-launches-tech-vc-fund/",
+      "title": "celebrityaccess.com/caarchive/live-nation-launches-tech-vc-fund/"
+     },
+     {
+      "url": "https://www.tryfundable.ai/investor-person/862ebc65-1685-4c06-acfb-6c55d70d15b4",
+      "title": "tryfundable.ai/investor-person/862ebc65-1685-4c06-acfb-6c55d70d15b4"
+     },
+     {
+      "url": "https://startupintros.com/orgs/live-nation",
+      "title": "startupintros.com/orgs/live-nation"
+     }
+    ]
+   },
+   "resolved": {
+    "portfolio": [],
+    "interests": [],
+    "comps": [
+     {
+      "name": "Ticketmaster",
+      "id": "177ABEBD-6662-4362-98A1-17257CA783C8",
+      "type": "brand",
+      "popularity": 0.988,
+      "tags": [
+       "Mobile App",
+       "Live Nation Entertainment",
+       "Ticket sales companies",
+       "West Hollywood",
+       "2010 mergers and acquisitions",
+       "Monopolies"
+      ],
+      "image": "https://images.qloo.com/i/177ABEBD-6662-4362-98A1-17257CA783C8-420x-auto.jpg",
+      "detail": "Ticketmaster is a global platform for buying and selling verified tickets for concerts, sports, theater, and other live events.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     },
+     {
+      "name": "Spotify",
+      "id": "99CBD9B1-F023-4034-97E7-E95A4A85BDD2",
+      "type": "brand",
+      "popularity": 0.998,
+      "tags": [
+       "Streaming Service App",
+       "Advertising Enabled",
+       "Mobile App",
+       "Music App",
+       "Minimalist",
+       "High-Contrast"
+      ],
+      "image": "https://images.qloo.com/i/99CBD9B1-F023-4034-97E7-E95A4A85BDD2-420x-auto.jpg",
+      "detail": "Spotify is a global audio streaming platform offering music, podcasts, and personalized listening experiences.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     },
+     {
+      "name": "Uber",
+      "id": "DAA03219-916F-491D-9F1C-E780DFA8A5DB",
+      "type": "brand",
+      "popularity": 0.99,
+      "tags": [
+       "Travel App",
+       "2019 initial public offerings",
+       "Mobile App",
+       "American companies established in 2009",
+       "Software",
+       "Transport companies established in 2009"
+      ],
+      "image": "https://images.qloo.com/i/DAA03219-916F-491D-9F1C-E780DFA8A5DB-420x-auto.jpg",
+      "detail": "Uber is a global technology company known for its ride-hailing service and Uber Eats, a popular food delivery platform.",
+      "types": [
+       "urn:entity:brand"
+      ]
+     }
+    ]
+   },
+   "fit": {
+    "ranked": [],
+    "score": null,
+    "mean": 0,
+    "ageMatch": null,
+    "yourCrowd": "25-29",
+    "theirCrowd": null
+   },
+   "rapport": [],
+   "brief": {
+    "headline": "Michael Abrams is a strategic rather than traditional venture contact, and his past work running the Live Nation Labs Fund in early-stage entertainment technology makes a live-events app that extends a concert ticket into a night out a plausible fit, though his current activity is unconfirmed.",
+    "angle": "Frame the startup as an add-on to the live-event experience that drives spend and engagement around ticketed shows, not as a standard venture bet on growth metrics. Confirm whether the Labs Fund or a similar strategic program is still active before leaning on this framing.",
+    "name_drop": [],
+    "deck": [
+     "Show how the app turns one ticket purchase into several follow-on purchases (bars, merch, rides) for the same night, with clear per-show numbers.",
+     "Explain the fanbase-specific picks in plain terms and show one example where a fanbase segment responded differently.",
+     "Position the comparables (Ticketmaster, Spotify, Uber) by what each one does for the user, not as valuation benchmarks.",
+     "Include a slide on how the app would work with event organizers and venues, since a strategic investor will ask about partnership fit."
+    ],
+    "openers": [],
+    "avoid": [
+     "Do not assume a current investment thesis; none was found, so ask what they are looking for now before pitching.",
+     "Do not present the deal as a conventional venture round with growth-stage metrics unless they ask for it.",
+     "Do not imply any personal affinity for a particular artist, brand or venue, since no public interests were found."
+    ],
+    "questions": [
+     "Is the Live Nation Labs Fund or a similar strategic program still making investments, and what stage does it target?",
+     "How would a startup like this fit with existing ticketing and venue relationships, and would that create conflicts or advantages?",
+     "What evidence do you have that fans will spend beyond the ticket on a night out, and how repeatable is that per show?"
+    ]
+   },
+   "baseline": {
+    "picks": [
+     {
+      "company": "Socialcam",
+      "line": "I noticed you backed Socialcam, and we're applying a similar bet on how mobile apps change social behavior, except around the live concert night out.",
+      "rank": null,
+      "of": 0,
+      "affinity": null
+     }
+    ],
+    "openers": [
+     {
+      "line": "You ran the Live Nation Labs Fund, so you've seen many ideas for the show itself. We think the bigger opportunity is the hours before and after the doors open."
+     },
+     {
+      "line": "Fans already use Ticketmaster, Spotify, and Uber for their concert plans. We built the layer that ties those together into one night out, chosen for each fanbase."
+     }
+    ]
+   }
+  },
+  {
+   "type": "done",
+   "qlooCalls": [
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Spotify&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 402,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Uber&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 402,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Ticketmaster&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 439,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/search?query=Socialcam&types=urn%3Aentity%3Abrand&take=3",
+     "ms": 145,
+     "ok": true
+    },
+    {
+     "url": "https://hackathon.api.qloo.com/v2/insights?filter.type=urn%3Ademographics&signal.interests.entities=177ABEBD-6662-4362-98A1-17257CA783C8%2C99CBD9B1-F023-4034-97E7-E95A4A85BDD2%2CDAA03219-916F-491D-9F1C-E780DFA8A5DB",
+     "ms": 171,
+     "ok": true
+    }
+   ]
+  }
+ ],
+ "renders": [],
+ "baseline": null,
+ "recorded": "2026-10-21T18:26:45.076Z"
+}
